@@ -1,11 +1,11 @@
 <div id="header" align="left">
+     <img align='right' src="https://media0.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.webp?cid=ecf05e47fuqyt1jfkcb56kgdvtiiize66zsnt1zlxs3t1ttx&ep=v1_gifs_related&rid=giphy.webp&ct=s" width="230">
      <h1 style="color: red"> I am
        <br/>
   <img src="https://media0.giphy.com/media/2UvBsxeB6nlONSJYoh/giphy.gif?cid=ecf05e471lu1g6zvgm0hiym3hk5o4r0v75lxe5zaruvedfs9&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = "132"/> 
   , Alexandr !</h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&pause=1000&color=FFFFFF&width=600&lines=I+am+a+Frontend+developer+with+3%2B+experience;My+stack%3A+JavaScript%2C+TypeScript%2C++React%2C;+Redux%2C+Redux+Toolkit%2C+HTML%2C+CSS%2C+SCSS;I+like+to+travel+and+play+billiards%2C+;code+and+watch+movies+and+TV+series" alt="Typing SVG" /></a>
-<img align='right' src="https://media0.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.webp?cid=ecf05e47fuqyt1jfkcb56kgdvtiiize66zsnt1zlxs3t1ttx&ep=v1_gifs_related&rid=giphy.webp&ct=s" width="230">
 <div id="badges" align="left">
   <a href="https://www.codewars.com/users/Alexxx2173">
     <img src="https://img.shields.io/badge/Codewars-B1361E?logo=Codewars&logoColor=white" alt="codewars"
