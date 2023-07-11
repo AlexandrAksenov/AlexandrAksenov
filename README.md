@@ -1,7 +1,6 @@
 <div id="header" align="left">
      <img align='right' src="https://media0.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.webp?cid=ecf05e47fuqyt1jfkcb56kgdvtiiize66zsnt1zlxs3t1ttx&ep=v1_gifs_related&rid=giphy.webp&ct=s" width="230">
      <h1 style="color: red"> I am
-       <br/>
   <img src="https://media0.giphy.com/media/2UvBsxeB6nlONSJYoh/giphy.gif?cid=ecf05e471lu1g6zvgm0hiym3hk5o4r0v75lxe5zaruvedfs9&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = "132"/> 
   , Alexandr !</h1>
 
